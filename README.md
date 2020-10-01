@@ -1,5 +1,5 @@
 # Literature-Survey
-Research paper readings &amp; summaries 
+Research paper &amp; summaries 
 
 ## 3D Reconstruction/Learning
 
